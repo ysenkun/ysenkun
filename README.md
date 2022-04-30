@@ -1,6 +1,6 @@
-### Hi I'm ysenkun 👋
-###  I'm a member of the Cyber-Physical Systems Laboratory.//
-HP: https://www.cps.akita-pu.ac.jp/
+## Hi I'm ysenkun 👋
+## I'm a member of the Cyber-Physical Systems Laboratory.
+## HP: https://www.cps.akita-pu.ac.jp/
 
 <!--
 **ysenkun/ysenkun** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
