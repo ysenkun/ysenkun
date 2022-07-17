@@ -2,7 +2,7 @@ Hi I'm ysenkun 👋
 ### Affiliation
 * Akita Prefectual University, Cyber-Physical System Laboratory, July 2020 – Present
 * HP
-  - My : https://volvo.cps.akita-pu.ac.jp/
+  - My : https://www.sentaro-yoshida.com/
   - Lab: https://www.cps.akita-pu.ac.jp/
 
 <!--
