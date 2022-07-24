@@ -4,6 +4,7 @@ Hi I'm ysenkun 👋
 * HP
   - My : https://www.sentaro-yoshida.com/
   - Lab: https://www.cps.akita-pu.ac.jp/
+  - Qiita: https://qiita.com/ysenkun/
 
 <!--
 **ysenkun/ysenkun** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
