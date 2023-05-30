@@ -5,10 +5,7 @@ Hi I'm ysenkun 👋
   - My : https://www.sentaro-yoshida.com/
   - Lab: https://www.cps.akita-pu.ac.jp/
   - Qiita: https://qiita.com/ysenkun/
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ysenkun)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ysenkun&layout=compact)
+  - 
 <!--
 **ysenkun/ysenkun** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
